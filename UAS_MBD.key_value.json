@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6855100a40a7b7e79abf4922"
+  },
+  "key": "nama",
+  "value": "Andi"
+},
+{
+  "_id": {
+    "$oid": "6855109840a7b7e79abf4924"
+  },
+  "key": "umur",
+  "value": "21"
+},
+{
+  "_id": {
+    "$oid": "685510c640a7b7e79abf4926"
+  },
+  "key": "jurusan",
+  "value": "Teknik Informatika"
+},
+{
+  "_id": {
+    "$oid": "685510e540a7b7e79abf4928"
+  },
+  "key": "status",
+  "value": "Aktif"
+},
+{
+  "_id": {
+    "$oid": "6855110440a7b7e79abf492a"
+  },
+  "key": "asal",
+  "value": "Makassar"
+}]

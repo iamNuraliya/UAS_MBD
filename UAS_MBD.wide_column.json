@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "685512ae40a7b7e79abf4934"
+  },
+  "nama": "Andi",
+  "umur": 21,
+  "jurusan": "TI",
+  "asal": "Makassar"
+},
+{
+  "_id": {
+    "$oid": "685512c740a7b7e79abf4936"
+  },
+  "nama": "Amel",
+  "umur": 21,
+  "jurusan": "TI",
+  "asal": "Majene"
+},
+{
+  "_id": {
+    "$oid": "685513a940a7b7e79abf4938"
+  },
+  "nama": "Dini",
+  "umur": 19,
+  "jurusan": "Manajemen",
+  "asal": "Polewali"
+},
+{
+  "_id": {
+    "$oid": "685513d940a7b7e79abf493a"
+  },
+  "nama": "Sri",
+  "umur": 21,
+  "jurusan": "Matematika",
+  "asal": "Pamboang"
+},
+{
+  "_id": {
+    "$oid": "6855140a40a7b7e79abf493c"
+  },
+  "nama": "Agus",
+  "umur": 22,
+  "jurusan": "TI",
+  "asal": "Bali"
+}]
